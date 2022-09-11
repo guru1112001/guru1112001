@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guru1112001&label=Profile%20views&color=0e75b6&style=flat" alt="guru1112001" /> </p>
 
-- 🔭 I’m currently working on [canteen management system](https://github.com/guru1112001/canteen.git)
+- 🔭 I’m currently working on **Core-python & Dsa**
 
 - 💬 Ask me about **python**
 
